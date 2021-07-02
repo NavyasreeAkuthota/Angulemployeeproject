@@ -1,0 +1,26 @@
+table{
+    border: 1px solid black;
+    background-color: white;
+}
+.heading{
+    padding: 20px 5px;
+}
+td{
+    padding: 5px 20px;
+}
+img{
+    border-radius: 50%;
+    width: 30%;  
+}
+.image{
+    text-align: center;
+}
+th{
+    padding: 10px 10px;
+    font-weight: bold;
+    background-color: beige;
+}
+tr{
+    font-weight: bold;
+
+}
